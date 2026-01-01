@@ -11,4 +11,4 @@ I am a Computer Science student passionate about **Backend Engineering** and **D
 - **Core:** Data Structures & Algorithms, OOP, DBMS.
 - **Tools:** Git, Linux, Docker.
 
-📫 **Reach me:** [Click here for my LinkedIn](www.linkedin.com/in/rishabh-roy-bnmit)
+📫 **Reach me:** [Click here for my LinkedIn](https://www.linkedin.com/in/rishabh-roy-bnmit)
