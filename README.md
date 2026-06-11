@@ -31,5 +31,5 @@ I am a Computer Science student and **Backend Engineer** passionate about Distri
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/rishabh-roy-bnmi](https://www.linkedin.com/in/rishabh-roy-bnmi)
+* **LinkedIn:** [linkedin.com/in/rishabh-roy-bnmi](https://www.linkedin.com/in/rishabh-roy-bnmit)
 * **Email:** Reach out via LinkedIn for engineering inquiries or collaboration!
