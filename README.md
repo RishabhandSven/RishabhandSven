@@ -6,11 +6,9 @@ I am a Computer Science student and **Backend Engineer** passionate about Distri
 
 ### 🔭 Currently Working On:
 
-* **Open Source Infrastructure:** Contributing to **Olake** (Database Replication & Apache Iceberg infrastructure) as part of the Apache Dubbo ecosystem.
+* **Security & Infrastructure:** Architecting **Vaultguard**, a secure backend system focusing on data protection, robust API design, and [insert specific function, e.g., encryption/access control].
 * **Low-Latency Communications:** Architecting a scalable Peer-to-Peer Video Chat routing platform using **WebRTC, WebSockets, Node.js, and Redis**.
 * **System Design:** Deep diving into caching strategies, concurrency models, and distributed pipeline bottlenecks.
-
----
 
 ### 🛠️ Tech Stack & Arsenal
 
